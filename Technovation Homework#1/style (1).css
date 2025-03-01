@@ -1,0 +1,20 @@
+h1 {
+    color: maroon;
+    text-align: center;
+
+}
+
+img {
+    height: 80%;
+    width: 80%;
+    margin-top: 30px;;
+}
+
+*{
+    background-color: aliceblue;
+}
+.container {
+    display: grid;
+    justify-items: center;
+}
+
